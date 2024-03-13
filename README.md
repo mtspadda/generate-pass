@@ -1,8 +1,11 @@
-# Gerador de Senhas Aleatórias
+# Gerador de Senhas Aleatórias 🔑🔐
 
+🇧🇷
+<p>
 Este script Bash gera senhas aleatórias contendo letras maiúsculas e minúsculas, caracteres especiais e números. O comprimento da senha pode ser especificado como argumento ao executar o script.
+</p>
 
-## Uso
+### Uso
 
 Para utilizar este script, siga estas etapas:
 
@@ -39,11 +42,14 @@ Isso gerará uma senha aleatória com 12 caracteres, contendo letras maiúsculas
 
 ---
 
-# Random Password Generator
+# Random Password Generator 🔑🔐
 
+🇬🇧
+<p>
 This Bash script generates random passwords containing uppercase and lowercase letters, special characters, and numbers. The length of the password can be specified as an argument when running the script.
+</p>
 
-## Usage
+### Usage
 
 To use this script, follow these steps:
 
