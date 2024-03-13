@@ -21,8 +21,14 @@ cd seu-repositorio
 ```bash
 chmod +x generate_pass.sh
 ```
+4. **Caso você deseje copiar a senha ao pressionar Enter, instale o xclip
 
-4. **Execute o script, fornecendo o comprimento desejado da senha como argumento:**
+```bash
+sudo apt update
+sudo apt install xclip
+```
+
+5. **Execute o script, fornecendo o comprimento desejado da senha como argumento:**
 ```bash
 ./generate_pass.sh <comprimento_da_senha>
 ```
@@ -65,8 +71,14 @@ cd your-repository
 ```bash
 chmod +x generate_pass.sh
 ```
+4. **If you wish to copy the password by pressing Enter, install xclip by running the following commands:**
 
-4. **Execute the script, providing the desired length of the password as an argument:**
+```bash
+sudo apt update
+sudo apt install xclip
+```
+
+5. **Execute the script, providing the desired length of the password as an argument:**
 
 ```bash
 ./generate_pass.sh <password_length>

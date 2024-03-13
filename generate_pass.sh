@@ -26,3 +26,8 @@ password=$(generate_password "$length")
 
 # Exibe a senha gerada
 echo "Senha gerada: $password"
+echo "Pressione Enter para copiar a senha para a área de transferência"
+
+read -r
+echo "$password" | xclip -selection clipboard
+echo "Senha copiada para a área de transferência."
