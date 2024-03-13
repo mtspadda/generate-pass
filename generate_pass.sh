@@ -1,4 +1,3 @@
-Copy code
 #!/bin/bash
 
 # Função para gerar senha aleatória
